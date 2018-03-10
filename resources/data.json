@@ -8,5 +8,40 @@
   },
   "career":{
     "objective":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
-  }
+  },
+  "education": [
+    {
+      "degree":"B-tech(cse)",
+      "college":"sir cr reddy college of engineering",
+      "data":["2015-19","74%"]
+    },
+    {
+      "degree":"Board of intermediate(m.p.c)",
+      "college":"narayana jr college",
+      "data":["2013-15","90%"]
+    },
+    {
+      "degree":"Board of secondary education(ssc)",
+      "college":"little buds school",
+      "data":["2012-13","9.0"]
+    }
+  ],
+  "skills":[
+    {
+      "name":"languages",
+      "info":["c","c++","java","r"]
+    },
+    {
+      "name":"operating systems",
+      "info":["unix","windows","mac","fedora"]
+    },
+    {
+      "name":"web technologies",
+      "info":["html","css","javascript","ajax"]
+    },
+    {
+      "name":"frameworks",
+      "info":["bootstrap","code-igniter","semantic -ui",".net"]
+    }
+  ]
 }
